@@ -1,0 +1,27 @@
+{
+  "title": "Resume",
+  "name": "cv-juan-rodriguez",
+  "version": "1.0.0",
+  "scripts": {
+    "start": ""
+  },
+  "description": "Un resumen del CV de Juan Rodriguez",
+  "keywords": [
+    "css",
+    "sass",
+    "html",
+    "responsive"
+  ],
+  "homepage": "https://engineer-jrg.github.io/cv/",
+  "bugs": {
+    "url": "https://github.com/engineer-jrg/cv",
+    "email": "engineer.jrg@gmail.com"
+  },
+  "license": "MIT",
+  "author": "Juan Rodriguez",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/engineer-jrg/cv.git"
+  },
+  "main": "index.html"
+}
